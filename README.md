@@ -1,1 +1,5 @@
 # Phishing-Website-Detection
+
+Welcome to the Phishing Website Detection project! This repository contains a machine learning-based approach to detecting phishing websites. Phishing websites are malicious sites that mimic legitimate ones to steal sensitive information such as usernames, passwords, and credit card details. This project aims to build a robust classifier that can distinguish between legitimate and phishing websites.FeaturesData Preprocessing: Scripts to clean and preprocess the dataset.Feature Extraction: Techniques to extract meaningful features from URLs and website content.Model Training: Implementation of various machine learning algorithms to train the model.Model Evaluation: Tools to evaluate the performance of the trained model using metrics like accuracy, precision, recall, and F1 score.Deployment: Instructions to deploy the model using a web service for real-time phishing detection.
+
+<img width="1239" alt="Screenshot 2024-05-11 at 4 41 43 AM" src="https://github.com/Abhishekthakurr/Phishing-Website-Detection/assets/153413087/81e71607-06c6-43cc-a78a-0659f30af495">
